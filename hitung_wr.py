@@ -3,7 +3,7 @@ from PIL import Image
 import math as m
 
 st.title("Kalkulator Winrate Mobile Legends Bang Bang")
-st.image("logoml.jpeg",width=300)
+st.image("logoml.jpeg",width=350)
 st.text("")
 
 a = st.text_input("Masukkan total match anda: (contoh: 400)")
