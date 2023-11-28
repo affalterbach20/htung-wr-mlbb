@@ -7,7 +7,7 @@ st.image("logoml.jpeg",width=430)
 st.text("")
 
 a = st.text_input("Masukkan total match anda: (contoh: 400)")
-b = st.text_input("Masukkan total win rate anda: (contoh: 65.5)
+b = st.text_input("Masukkan total win rate anda: (contoh: 65.5)")
 c = st.text_input("Masukkan win rate yang anda inginkan: (contoh: 80)
 tot_match = 0
 tot_wr = 0
