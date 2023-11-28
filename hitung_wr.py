@@ -2,8 +2,7 @@ import streamlit as st
 from PIL import Image
 import math as m
 
-st.title("Kalkulator Winrate")
-st.header("Mobile Legends")
+st.title("Kalkulator Winrate Mobile Legends Bang Bang")
 st.image("logoml.jpeg",width=430)
 st.text("")
 
