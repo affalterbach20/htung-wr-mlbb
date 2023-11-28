@@ -3,12 +3,12 @@ from PIL import Image
 import math as m
 
 st.title("Kalkulator Winrate Mobile Legend")
-st.image("logoml.jpeg",width=400)
+st.image("logoml.jpeg",width=430)
 st.text("")
 
 a = st.text_input("Masukkan total match anda: (contoh: 400)")
-b = st.text_input("Masukkan total win rate anda: (contoh: 65.5) == gunakan titik(.) untuk bilangan desimal!!")
-c = st.text_input("Masukkan win rate yang anda inginkan: (contoh: 80) == gunakan titik(.) untuk bilangan desimal!!")
+b = st.text_input("Masukkan total win rate anda: (contoh: 65.5)
+c = st.text_input("Masukkan win rate yang anda inginkan: (contoh: 80)
 tot_match = 0
 tot_wr = 0
 wr_ding = 0
