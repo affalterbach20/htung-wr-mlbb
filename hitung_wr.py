@@ -2,8 +2,6 @@ import streamlit as st
 from PIL import Image
 import math as m
 
-st.subheader("Aplikasi Sederhana")
-st.text("Muhammad Sultan Al Faritz")
 st.title("Kalkulator Winrate Mobile Legend")
 st.image("logoml.jpeg",width=400)
 st.text("")
